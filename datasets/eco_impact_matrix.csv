@@ -1,4 +1,4 @@
-Place_Id,Eco_Friendliness,Renewable_Energy_Usage,Waste_Management,Public_Transport_Access,Cultural_Preservation_Effort
+Destination_ID,Eco_Friendliness,Renewable_Energy_Usage,Waste_Management,Public_Transport_Access,Cultural_Preservation_Effort
 1,High,False,Excellent,Low,Strong
 2,High,False,Good,Moderate,Strong
 3,Medium,False,Good,High,Strong
